@@ -9,7 +9,6 @@ int qnt_num, total = 0;
 int num[0];
 
 void *average() {
-
     X = total/qnt_num;
 }
 
@@ -23,7 +22,6 @@ void *minimum() {
             minimum = num[index];
         }
     }
-
     Y = minimum;
 }
 
@@ -36,7 +34,6 @@ void *maximum() {
             maximum = num[index];
         }
     }
-
     Z = maximum;
 }
 
