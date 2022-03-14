@@ -6,7 +6,7 @@
 Receives a list of numbers and do math operations.\
 The code has 3 functions:
 <br>
-1. Average (Calculate the average of all the numbers)
+1. Average (Calculates the average of all the numbers)
 2. Minimum (Finds the lowest number)
 3. Maximum (Finds the Highest number)
 
